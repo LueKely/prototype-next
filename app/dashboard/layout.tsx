@@ -7,7 +7,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   return (
     <SidebarProvider>
       <DashboardSidebar />
-      <main className="w-svw h-svw">
+      <main className="w-svw ">
         <DashboardHeader>
           <ModeToggle />
           <SidebarTrigger />
