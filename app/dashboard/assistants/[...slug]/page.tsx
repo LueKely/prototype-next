@@ -1,3 +1,3 @@
 export default async function Page() {
-  return <div>ass</div>;
+  return <div>slug</div>;
 }
